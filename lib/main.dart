@@ -3,7 +3,7 @@ import 'app.dart';
 
 
 void main() {
-  runApp(const ShoppingApp());
+  runApp(const BagApp());
 }
 
 

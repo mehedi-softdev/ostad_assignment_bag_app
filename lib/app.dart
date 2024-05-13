@@ -5,9 +5,8 @@ import 'package:bag_app/Utils/scroll_behavior.dart';
 import 'package:bag_app/views/screens/home_screen_view.dart';
 
 
-
-class ShoppingApp extends StatelessWidget {
-  const ShoppingApp({super.key});
+class BagApp extends StatelessWidget {
+  const BagApp({super.key});
 
   @override
   Widget build(BuildContext context) {
